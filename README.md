@@ -20,5 +20,5 @@
 12 - quality (качество вина по ранжированной шкале от 0 10)
 
 Датасет взят по адресу - https://www.kaggle.com/datasets/yasserh/wine-quality-dataset
-Автор - Зинкин С.Д.
+##### Автор - Зинкин С.Д.
 Ссылка на приложение - https://apphw-ptiaqzcmjoerbq7xemfad9.streamlit.app/
